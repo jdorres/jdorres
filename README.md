@@ -6,7 +6,7 @@
 <!-- ![Julio GitHub stats](https://github-readme-stats.vercel.app/api?username=jdorres&show_icons=true&theme=cobalt) -->
 
 <blockquote style="padding: 20px 10px">
-Sou desenvolvedor Fullstack PHP com mais de 8 anos de experiência utilizando principalmente framework Laravel e Vue.js.
+Sou desenvolvedor Fullstack PHP com mais de 10 anos de experiência utilizando principalmente framework Laravel e Vue.js.
 </blockquote>
 
 ### Tecnologias mais utilizadas no meu dia-a-dia:
