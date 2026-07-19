@@ -1,22 +1,23 @@
-## Olá eu sou Julio 👋
+### Olá, eu sou o Julio 👋
 
-<!--[![Blog](https://img.shields.io/website?label=jdorres.com&style=for-the-badge&url=https://jdorres.com/)](https://www.jdorres.com)-->
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julio-d-moreira/)
+**Software Engineer** with 10+ years building financial systems —
+payment APIs, credit platforms, electoral-compliance donations and payroll engines.
 
-<!-- ![Julio GitHub stats](https://github-readme-stats.vercel.app/api?username=jdorres&show_icons=true&theme=cobalt) -->
+**Current stack:** Java 11/17 · Spring Boot microservices · Kafka · Kubernetes/AWS · React/TypeScript
+**Background:** PHP (Laravel/Symfony) · .NET · Angular/Vue.js
 
-<blockquote style="padding: 20px 10px">
-Sou desenvolvedor Fullstack PHP com mais de 10 anos de experiência utilizando principalmente framework Laravel e Vue.js.
-</blockquote>
+📍 Porto Alegre, Brazil · [LinkedIn](https://www.linkedin.com/in/julio-d-moreira)
 
-### Tecnologias mais utilizadas no meu dia-a-dia:
+> Most of my professional work lives in private repositories (fintech/enterprise).
+> Public activity here is studies, courses and experiments.
 
-<div style="display: inline_block"><br/>
-    <img align="center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-    <img align="center" alt="docker" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white">
-    <img align="center" alt="vue" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
-    <img align="center" alt="html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-    <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
-    <img align="center" alt="docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
-</div>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
